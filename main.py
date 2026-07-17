@@ -1,7 +1,6 @@
 import os
 
+#i am adding some new feature to my main.py 
 print(os.listdir())
 
-print(os.get_blocking)
-
-print(os.chdir("/"))
+print(os.getcwd())
